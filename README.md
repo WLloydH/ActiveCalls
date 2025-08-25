@@ -5,6 +5,6 @@
 # ![image](https://user-images.githubusercontent.com/30773596/207260622-4d91dbcb-fe03-405f-bee2-d1c8db512ab7.png)
 
 
-The view page source in the browser is nicely formatted, so you can see how I used DataTables.  The API I created is available to the public to develop opportunities to incorporate the application gobal: (https://apps.myclearwater.com/activecalls/api/activecalls)
+The source code is clear and accessible, demonstrating the use of DataTables. A public API is also available, inviting developers to integrate and build upon this application. This project is a call to action for the public and other agencies to innovate and collaborate."(https://apps.myclearwater.com/activecalls/api/activecalls)
 
 
