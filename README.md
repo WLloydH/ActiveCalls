@@ -8,3 +8,5 @@
 The source code is clear and accessible, demonstrating the use of DataTables. A public API is also available, inviting developers to integrate and build upon this application. This project is a call to action for the public and other agencies to innovate and collaborate."(https://apps.myclearwater.com/activecalls/api/activecalls)
 
 
+Project Modernization: Building on a Solid Foundation
+The current application is a testament to its decade-long success, running efficiently and with modern updates to comply with ADA accessibility standards. This project serves as a case study for migrating a proven solution to a modern web framework. The public API is available for developers to learn and experiment with new integrations, inspiring both the public and other agencies to build on this reliable foundation.
