@@ -5,8 +5,48 @@
 # ![image](https://user-images.githubusercontent.com/30773596/207260622-4d91dbcb-fe03-405f-bee2-d1c8db512ab7.png)
 
 
-The source code is clear and accessible, demonstrating the use of DataTables. A public API is also available, inviting developers to integrate and build upon this application. This project is a call to action for the public and other agencies to innovate and collaborate."(https://apps.myclearwater.com/activecalls/api/activecalls)
+# Clearwater Police Department Active Calls
 
+This is a clean and refactored version of the Clearwater Police Department's active calls page, designed to serve as an example of clean code principles.
 
-Project Modernization: Building on a Solid Foundation
-The current application is a testament to its decade-long success, running efficiently and with modern updates to comply with ADA accessibility standards. This project serves as a case study for migrating a proven solution to a modern web framework. The public API is available for developers to learn and experiment with new integrations, inspiring both the public and other agencies to build on this reliable foundation.
+The project demonstrates:
+* **Separation of Concerns**: HTML, CSS, and JavaScript are organized in their own dedicated sections.
+* **Performance Optimization**: External libraries are loaded efficiently using modern practices.
+* **Code Readability**: Functions are extracted for clear, concise logic.
+* **Dynamic Functionality**: A DataTables implementation handles fetching and displaying real-time data from a specified API endpoint.
+
+---
+
+### Installation & Usage
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/WLloydH/ActiveCalls.git](https://github.com/WLloydH/ActiveCalls.git)
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd ActiveCalls
+    ```
+3.  **Open `index.html` in your web browser.**
+
+---
+
+### Dependencies
+
+This project relies on the following external libraries, which are loaded via CDN:
+* [**jQuery**](https://jquery.com/)
+* [**Bootstrap**](https://getbootstrap.com/)
+* [**DataTables**](https://datatables.net/)
+* [**Moment.js**](https://momentjs.com/)
+
+---
+
+### License
+
+The code in this repository is licensed under the **MIT License**. The Clearwater Police Department badge and other official content are for illustrative purposes and are the property of the City of Clearwater.
+
+---
+
+### Author
+
+**W. Lloyd Hill** - **https://github.com/WLloydH**
