@@ -1,52 +1,37 @@
-
-# https://www.myclearwater.com/Public-Safety/View-Active-CPD-Calls
-
-## This is the most used application in Clearwater. How often have you wondered why there are police cars in your area? This application gives you the answer to that question. 
-# ![image](https://user-images.githubusercontent.com/30773596/207260622-4d91dbcb-fe03-405f-bee2-d1c8db512ab7.png)
-
-
 # Clearwater Police Department Active Calls
 
-This is a clean and refactored version of the Clearwater Police Department's active calls page, designed to serve as an example of clean code principles.
+[View Live Application](https://www.myclearwater.com/Public-Safety/View-Active-CPD-Calls)  
 
-The project demonstrates:
-* **Separation of Concerns**: HTML, CSS, and JavaScript are organized in their own dedicated sections.
-* **Performance Optimization**: External libraries are loaded efficiently using modern practices.
-* **Code Readability**: Functions are extracted for clear, concise logic.
-* **Dynamic Functionality**: A DataTables implementation handles fetching and displaying real-time data from a specified API endpoint.
+This is one of the most frequently used applications in Clearwater. Curious why there are police cars in your neighborhood? This application shows **active police calls in real time**, giving you immediate insight into local law enforcement activity.  
+
+![CPD Active Calls](https://user-images.githubusercontent.com/30773596/207260622-4d91dbcb-fe03-405f-bee2-d1c8db512ab7.png)
 
 ---
 
-### Installation & Usage
+## Overview
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/WLloydH/ActiveCalls.git](https://github.com/WLloydH/ActiveCalls.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd ActiveCalls
-    ```
-3.  **Open `index.html` in your web browser.**
+The application allows users to:
+
+* See active police calls in Clearwater in real time.  
+* View details such as call type, location, and status.  
+* Inspect the JavaScript source on the live page for transparency.  
+
+> **Security Note:** The author holds a **CJIS Level 4 certification**, demonstrating knowledge of secure handling of sensitive law enforcement information. This repository does not contain restricted data; it documents a publicly available live application.
 
 ---
 
-### Dependencies
+## Purpose
 
-This project relies on the following external libraries, which are loaded via CDN:
-* [**jQuery**](https://jquery.com/)
-* [**Bootstrap**](https://getbootstrap.com/)
-* [**DataTables**](https://datatables.net/)
-* [**Moment.js**](https://momentjs.com/)
+This README and repository serve to:
 
----
-
-### License
-
-The code in this repository is licensed under the **MIT License**. The Clearwater Police Department badge and other official content are for illustrative purposes and are the property of the City of Clearwater.
+* Document a widely used public safety application in Clearwater.  
+* Highlight the structure and functionality of the live application for educational and professional reference.  
+* Provide insight into how real-time law enforcement data is displayed publicly.  
 
 ---
 
-### Author
+## Author
 
-**W. Lloyd Hill** - **https://github.com/WLloydH**
+**W. Lloyd Hill** – [GitHub Profile](https://github.com/WLloydH)  
+
+> Developed independently. This repository documents a live public application rather than providing the source code.
