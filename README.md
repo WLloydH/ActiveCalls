@@ -8,12 +8,16 @@ This is one of the most frequently used applications in Clearwater. Curious why 
 
 ---
 
+> **Disclaimer:** The HTML and JavaScript in this repository are from the publicly available Clearwater Police Department Active Calls application. This repository documents the live application for educational and reference purposes only. All official content remains the property of the City of Clearwater.
+
+---
+
 ## Overview
 
 The application allows users to:
 
 * See active police calls in Clearwater in real time.  
-* View details such as call type, location, and status.  
+* View details such as call type, location, and response time.  
 * Inspect the JavaScript source on the live page for transparency.  
 
 > **Security Note:** The author holds a **CJIS Level 4 certification**, demonstrating knowledge of secure handling of sensitive law enforcement information. This repository does not contain restricted data; it documents a publicly available live application.
@@ -22,7 +26,7 @@ The application allows users to:
 
 ## Purpose
 
-This README and repository serve to:
+This repository serves to:
 
 * Document a widely used public safety application in Clearwater.  
 * Highlight the structure and functionality of the live application for educational and professional reference.  
@@ -34,4 +38,4 @@ This README and repository serve to:
 
 **W. Lloyd Hill** – [GitHub Profile](https://github.com/WLloydH)  
 
-> Developed independently. This repository documents a live public application rather than providing the source code.
+> Developed independently. This repository documents a live public application rather than providing the original source code.
